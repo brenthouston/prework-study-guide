@@ -34,6 +34,6 @@ p {
   .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid rgb(192, 185, 185);
-    box-shadow: 5px 10px #edf1f1;
+    border: 2px solid rgb(47, 45, 45);
+    box-shadow: 5px 10px #dbdede;
   }
